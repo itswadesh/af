@@ -5,7 +5,7 @@
   "dependencies": {
     
     "angular": "~1.6.0",
-    "bootstrap-sass": "~3.3.7",
+    "bootstrap-sass": "~3.4.1",
     "bootstrap": "~3.3.7",
     "bootstrap-social": "^5.0.0",
     "angular-animate": "~1.6.0",
